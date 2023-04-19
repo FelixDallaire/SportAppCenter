@@ -9,7 +9,8 @@ import { BrochureComponent } from './brochure/brochure.component';
 import { GuideGalleryComponent } from './guide-gallery/guide-gallery.component';
 
 const routes: Routes = [
-  { path: '', component: LandingPageComponent },
+  { path: '', redirectTo: '/landing-page', pathMatch: 'full' },
+  { path: 'landing-page', component: LandingPageComponent },
   { path: 'nav', component: NavigationBarComponent },
   { path: 'dashboard', component: DashboardComponent },
   { path: 'center', component: DashboardComponent},
