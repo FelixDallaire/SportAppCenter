@@ -1,0 +1,10 @@
+<div class="row" id="page-container">
+    <div class="col-2 p-0">
+        <app-navigation-bar></app-navigation-bar>
+    </div>
+    <div class="col-10 p-0">
+        <ng-container [ngSwitch]="currentRoute">
+            <app-guide-gallery *ngSwitchCase="'/guide'"></app-guide-gallery>
+          </ng-container>
+    </div>
+</div>

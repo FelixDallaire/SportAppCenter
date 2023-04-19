@@ -1,0 +1,75 @@
+@import "../../styles.scss";
+
+#brochure {
+    display: flex;
+    justify-content: center;
+    perspective: 2000px;
+    margin: 3rem;
+    margin-top: 0;
+}
+
+#brochure.closed {
+    animation: close-book 0.5s ease-out forwards;
+}
+
+.page {
+    margin: auto -1rem;
+    background: whitesmoke;
+    z-index: -1;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+}
+
+#page1 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center left;
+    box-shadow: -100px 40px 215px -38px rgba(0, 0, 0, 0.75);
+    transform: rotateY(30deg);
+}
+
+#page2 {
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+    transform: rotateY(-30deg);
+    box-shadow: -100px 40px 215px    -38px rgba(0, 0, 0, 0.75);
+}
+
+i {
+    color: $dark-bg-secondary;
+    font-size: 3rem;
+
+    &:hover {
+        cursor: pointer;
+        color: $light-accent-primary;
+    }
+}
+
+#brochure-container {
+
+    height: 100vh;
+    overflow: hidden;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 5rem;
+
+    background-color: $light-bg-primary;
+}
+
+
+@keyframes close-book {
+    from {
+        opacity: 100%;
+        height: 100vh;
+        width: 100vw;
+    }
+
+    to {
+        opacity: 0%;
+        height: 0vh;
+        width: 0vw;
+    }
+}

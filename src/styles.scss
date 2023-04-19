@@ -1,1 +1,68 @@
-/* You can add global styles to this file, and also import other style files */
+// Theme
+// Light
+$light-bg-primary: #ffffff;
+$light-bg-secondary: #f6f6f6;
+$light-bg-tertiary : #eeeeee;
+$light-bg-accent-primary: #fff2eb;
+$light-bg-accent-secondary: #fe653c;
+$light-accent-primary: #fe8235ff;
+
+// Dark
+$dark-bg-primary: #1f1f1f;
+$dark-bg-secondary: #2b2b2b;
+$dark-bg-tertiary: #434343;
+$dark-bg-accent-primary: #31190c;
+$dark-accent-highlight: #c06b42ff;
+
+// Gradient
+$gradient-color-light-orange: #ffb151;
+$gradient-color-dark-orange: #f83600;
+$gradient-orange:  linear-gradient(to right, $gradient-color-light-orange, $gradient-color-dark-orange, $gradient-color-light-orange, $gradient-color-dark-orange);
+// End theme
+
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+@font-face {
+  font-family: 'Teko';
+  font-weight: 300;
+  // src: url('./assets/font/Teko-Light.ttf') format('truetype');
+  src: url('./assets/font/Teko-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Teko';
+  font-weight: 400;
+  src: url('./assets/font/Teko-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Teko';
+  font-weight: 500;
+  src: url('./assets/font/Teko-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Teko';
+  font-weight: 600;
+  src: url('./assets/font/Teko-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Teko';
+  font-weight: 700;
+  src: url('./assets/font/Teko-Bold.ttf') format('truetype');
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.vh-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  font-family: 'Teko', sans-serif;
+}

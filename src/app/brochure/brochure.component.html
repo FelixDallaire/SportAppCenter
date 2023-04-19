@@ -1,0 +1,19 @@
+<div id="brochure-container" *ngIf="!isDestroyed">
+    <div class="row">
+        <div class="col-12">
+            <div id="brochure" [ngClass]="{ 'closed': isClosed }">
+                <div class="page" id="page1"
+                    [ngStyle]="{ 'height.px': pageHeight, 'width.px': pageWidth, 'background-image': 'url(' + page1ImageUrl + ')' }">
+                </div>
+                <div class="page" id="page2"
+                    [ngStyle]="{ 'height.px': pageHeight, 'width.px': pageWidth, 'background-image': 'url(' + page2ImageUrl + ')' }">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 d-flex justify-content-center">
+            <i class="bi bi-file-x-fill" (click)="onDestroyClick()" *ngIf="!isClosed"></i>
+        </div>
+    </div>
+</div>

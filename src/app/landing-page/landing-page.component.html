@@ -1,0 +1,45 @@
+<div id="page-container" class="container-fluid">
+    <header class="row justify-content-center align-items-center h-70">
+        <div class="col-12">
+            <div class="row justify-content-center align-items-center">
+                <div class="col-12 d-flex justify-content-center">
+                    <img src="../../assets/images/icons/logo_white.svg" alt="logo">
+                </div>
+            </div>
+
+            <div class="row justify-content-center align-items-center">
+                <div class="col-12 d-flex justify-content-center">
+                    <h1>Welcome to SportAce</h1>
+                </div>
+            </div>
+
+            <div class="row justify-content-center align-items-center mb-3 d-none">
+                <div class="col-6 d-flex justify-content-end">
+                    <button class="btn btn-dark disabled">login</button>
+                </div>
+
+                <div class="col-6 d-flex justify-content-start">
+                    <button class="btn btn-dark disabled">register</button>
+                </div>
+            </div>
+
+            <div class="row justify-content-center align-items-center">
+                <div class="col-12 d-flex justify-content-center">
+                    <a routerLink="/center" class="btn btn-lg">Enter</a>
+                </div>
+            </div>
+
+        </div>
+    </header>
+
+    <main class="row">
+        <div class="col-2 mx-auto text-center"></div>
+
+        <div *ngFor="let imagePath of featureImages" [ngStyle]="{'background-image': 'url(' + imagePath + ')'}"
+            class="feature-container">
+            <!-- Additional content can go here -->
+        </div>
+
+        <div class="col-2 mx-auto text-center"></div>
+    </main>
+</div>

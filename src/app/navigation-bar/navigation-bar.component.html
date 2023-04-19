@@ -1,0 +1,42 @@
+<div class="full-height custom-bar">
+    <div class="row row-10">
+        <div class="col vh-center ps-0">
+            <img id="logo" routerLink="/welcome" src="../../assets/images/icons/logo_white.svg" alt="logo">
+        </div>
+    </div>
+    <div class="row row-80">
+        <div class="col-12 d-flex align-items-start justify-content-center">
+            <nav class="vh-center flex-column" id="nav-item-container">
+                <a href="" routerLink="/center" routerLinkActive="active">
+                    <fa-icon [icon]="faBuilding"></fa-icon> Sport center
+                </a>
+                <a href="" routerLink="/schedule" routerLinkActive="active">
+                    <fa-icon [icon]="faCalendar"></fa-icon> Schedule
+                </a>
+                <a href="" routerLink="/guide" routerLinkActive="active">
+                    <fa-icon [icon]="faBookOpen"></fa-icon> Guides
+                </a>
+                <a href="" routerLink="/alert" routerLinkActive="active">
+                    <fa-icon [icon]="faBell"></fa-icon> Notifications
+                </a>
+            </nav>
+        </div>
+    </div>
+    <div class="row row-10">
+        <div class="col-12 vh-center">
+
+            <div id="profile-container" class="d-grid rounded">
+                <div class="vh-center">
+                    <img class="rounded-pill" src="../../assets/images/nilhal.png" alt="">
+                </div>
+                <div>
+                    <p>Felix Dallaire</p>
+                </div>
+                <div>
+                    <fa-icon class="btn" [icon]="faCog"></fa-icon>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

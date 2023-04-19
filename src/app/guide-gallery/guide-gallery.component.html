@@ -1,0 +1,50 @@
+<div class="container" *ngIf="showContainer">
+    <div class="row">
+
+        <div class="col-2">
+            <div class="card m-1">
+                <div class="card-body vh-center" (click)="showContainer = false; selectedGuide = 'tennisGuide'">
+                    <h5 class="card-title">Tennis quickstart</h5>
+                    <h4><fa-icon [icon]="faTableTennisPaddleBall"></fa-icon></h4>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-2">
+            <div class="card m-1">
+                <div class="card-body vh-center" (click)="showContainer = false; selectedGuide = 'runningGuide'">
+                    <h5 class="card-title">Running quickstart</h5>
+                    <h4><fa-icon [icon]="faRunning"></fa-icon></h4>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-2">
+
+        </div>
+
+        <div class="col-2">
+
+        </div>
+
+        <div class="col-2">
+
+        </div>
+
+        <div class="col-2">
+
+        </div>
+
+    </div>
+</div>
+
+
+
+<ng-container [ngSwitch]="selectedGuide">
+    <app-brochure *ngSwitchCase="'tennisGuide'" (onDestroy)="updateShowGallery()" [pageWidth]="290 * 2" [pageHeight]="205 * 2"
+        [page1ImageUrl]="'../../assets/images/tennis-page-2.svg'"
+        [page2ImageUrl]="'../../assets/images/tennis-page-1.svg'"></app-brochure>
+    <app-brochure *ngSwitchCase="'runningGuide'" (onDestroy)="updateShowGallery()" [pageWidth]="198 * 2.5" [pageHeight]="280 * 2.5"
+        [page1ImageUrl]="'../../assets/images/running-page-1.svg'"
+        [page2ImageUrl]="'../../assets/images/running-page-2.svg'"></app-brochure>
+</ng-container>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="79.375mm"
+   height="59.531254mm"
+   version="1.1"
+   viewBox="0 0 79.375003 59.531256"
+   id="svg10323"
+   sodipodi:docname="feature-schedule.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10327" />
+  <sodipodi:namedview
+     id="namedview10325"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.57428677"
+     inkscape:cx="-137.56194"
+     inkscape:cy="227.23839"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10323" />
+  <rect
+     style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect7104-1"
+     width="79.375"
+     height="59.531254"
+     x="0"
+     y="0"
+     ry="4.3695436" />
+  <g
+     id="g33000-7"
+     transform="translate(-670.42272,-205.32325)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="709.97052"
+       y="243.10786"
+       id="text28204-7-6"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292"
+         x="709.97052"
+         y="243.10786"
+         id="tspan32987-3">Sport center schedule viewer</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292"
+         x="709.97052"
+         y="253.69121"
+         id="tspan33475-9">and personal Calendar</tspan></text>
+    <rect
+       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect23087-1-2-8-7-2-6"
+       width="23.8125"
+       height="23.8125"
+       x="698.02612"
+       y="208.70355"
+       ry="3.3743687" />
+    <path
+       d="m 713.7909,215.10868 v -0.28663 c 0,-0.45751 -0.36931,-0.82682 -0.82682,-0.82682 -0.45751,0 -0.82682,0.36931 -0.82682,0.82682 v 0.27561 h -4.40973 v -0.27561 c 0,-0.45751 -0.36931,-0.82682 -0.82682,-0.82682 -0.45751,0 -0.82682,0.36931 -0.82682,0.82682 v 0.28663 c -1.5434,0.14332 -2.75608,1.44419 -2.75608,3.02066 v 6.06337 c 0,1.67018 1.3615,3.03168 3.03169,3.03168 h 7.16579 c 1.67019,0 3.03169,-1.3615 3.03169,-3.03168 v -6.06337 c 0,-1.57647 -1.21268,-2.87734 -2.75608,-3.02066 z m -4.96094,6.60356 v -2.20486 h 2.20487 v 2.20486 z m 2.20487,1.65365 v 2.20486 h -2.20487 v -2.20486 z m -6.06337,-3.85851 h 2.20486 v 2.20486 h -2.20486 z m 7.71701,0 h 2.20486 v 2.20486 h -2.20486 z m -6.33897,-2.75608 h 7.16579 c 0.66697,0 1.2237,0.47405 1.35048,1.10243 h -9.86675 c 0.12678,-0.62838 0.68351,-1.10243 1.35048,-1.10243 z m -1.37804,7.44141 v -0.82682 h 2.20486 v 2.20486 h -0.82682 c -0.76068,0 -1.37804,-0.61736 -1.37804,-1.37804 z m 8.54383,1.37804 h -0.82682 v -2.20486 h 2.20486 v 0.82682 c 0,0.76068 -0.61736,1.37804 -1.37804,1.37804 z"
+       id="path32322-1"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:5.64444" />
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="79.375mm"
+   height="59.53125mm"
+   version="1.1"
+   viewBox="0 0 79.375003 59.531252"
+   id="svg10184"
+   sodipodi:docname="feature-guide.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10188" />
+  <sodipodi:namedview
+     id="namedview10186"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.81216415"
+     inkscape:cx="-104.65865"
+     inkscape:cy="21.547368"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10184" />
+  <rect
+     style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect7104-1-5"
+     width="79.375"
+     height="59.53125"
+     x="0"
+     y="0"
+     ry="4.3695431" />
+  <g
+     id="g33471-7"
+     transform="translate(-758.82,-213.20187)"
+     style="stroke-width:1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="798.48633"
+       y="250.98648"
+       id="text28204-7-1-9"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292"
+         x="798.48633"
+         y="250.98648"
+         id="tspan34205-9">Sports discovery guide</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292"
+         x="798.48633"
+         y="261.56982"
+         id="tspan34209-5">and quickstart</tspan></text>
+    <rect
+       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect23087-1-2-8-7-2-8-92"
+       width="23.8125"
+       height="23.8125"
+       x="786.54193"
+       y="216.58217"
+       ry="3.3743687" />
+    <path
+       id="path33451-7"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke-width:0.793749;-inkscape-stroke:none"
+       d="m 794.83526,221.87379 c -1.61433,-0.0174 -3.00177,1.40996 -3.00189,3.22926 v 6.09162 c 7e-5,1.55745 1.02985,2.89724 2.44171,3.17603 l 3.26905,0.64389 c 0.5976,0.11785 1.21006,0.11785 1.80765,0 l 3.27111,-0.64389 h 0.002 c 1.41069,-0.28016 2.4383,-1.61958 2.4381,-3.17603 v -6.09162 c 5.6e-4,-0.95728 -0.39243,-1.86608 -1.07074,-2.47789 -0.67661,-0.61402 -1.57047,-0.86968 -2.43809,-0.69815 l -1.98851,0.39171 c -0.43299,0.0863 -0.78857,0.37613 -1.11828,0.68627 -0.33047,-0.31014 -0.68663,-0.60071 -1.12035,-0.68627 l -1.98489,-0.39171 c -0.17058,-0.0339 -0.33994,-0.0514 -0.50694,-0.0532 z m 7.24606,1.93735 c 0.64975,-0.009 1.1932,0.554 1.19218,1.28984 v 0.002 6.09214 c 9e-5,0.62461 -0.40685,1.15426 -0.97307,1.26607 l -2.95744,0.58188 v -8.1039 c -5e-5,-0.35182 0.22625,-0.64705 0.54519,-0.71004 h 0.002 l 1.98645,-0.39584 c 0.069,-0.0136 0.13742,-0.0208 0.20463,-0.0217 z m -7.27552,0.004 c 0.0722,1.8e-4 0.14446,0.008 0.21549,0.0222 l 1.98696,0.39377 c 0.31802,0.0632 0.54449,0.35915 0.54519,0.71003 v 8.10184 l -2.95745,-0.58188 c -0.56622,-0.1118 -0.97521,-0.64146 -0.97513,-1.26607 v -6.09214 c 0,-0.71487 0.5265,-1.28672 1.18494,-1.28778 z" />
+  </g>
+</svg>

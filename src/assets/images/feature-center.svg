@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="79.375mm"
+   height="59.531254mm"
+   version="1.1"
+   viewBox="0 0 79.375003 59.531256"
+   id="svg10043"
+   sodipodi:docname="feature-center.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10047" />
+  <sodipodi:namedview
+     id="namedview10045"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.81216415"
+     inkscape:cx="-52.944962"
+     inkscape:cy="-8.0033082"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10043" />
+  <rect
+     style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect7104-1-1"
+     width="79.375"
+     height="59.531254"
+     x="0"
+     y="0"
+     ry="4.3695436" />
+  <g
+     id="g31134-9"
+     transform="translate(-532.4362,-181.40128)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="571.98401"
+       y="219.18588"
+       id="text28204-5"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292"
+         x="571.98401"
+         y="219.18588"
+         id="tspan34215-3">Sport center manager</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292"
+         x="571.98401"
+         y="229.76923"
+         id="tspan34213-4" /></text>
+    <g
+       id="g31126-8"
+       transform="translate(2.2221503,-62.231619)">
+      <rect
+         style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect23087-1-2-8-7-0"
+         width="23.8125"
+         height="23.8125"
+         x="557.9953"
+         y="247.0132"
+         ry="3.3743687" />
+      <path
+         d="m 571.8308,260.57309 h 1.65365 v 1.65365 h -1.65365 z m 0,-3.85851 h 1.65365 v -1.65365 h -1.65365 z m 0,2.75608 h 1.65365 v -1.65365 h -1.65365 z m 4.68533,-5.23655 v 11.29992 h -13.22917 v -8.08688 c 0,-0.51539 0.20064,-0.99991 0.565,-1.36426 l 1.49214,-1.49214 c 0.81524,-0.81524 2.23628,-0.81524 3.05097,0 l 0.40349,0.40349 v -0.76013 c 0,-1.06385 0.86541,-1.92925 1.92926,-1.92925 h 3.85851 c 1.06384,0 1.92925,0.8654 1.92925,1.92925 z m -7.71701,3.21304 c 0,-0.0739 -0.0287,-0.14277 -0.0805,-0.19514 l -1.49213,-1.49213 c -0.18797,-0.18742 -0.52476,-0.18742 -0.71272,0 l -1.49215,1.49213 c -0.0518,0.0524 -0.0805,0.12127 -0.0805,0.19514 v 6.43323 h 3.85851 v -6.43323 z m 6.06336,-3.21304 c 0,-0.15213 -0.12347,-0.27561 -0.27561,-0.27561 h -3.8585 c -0.15213,0 -0.27561,0.12348 -0.27561,0.27561 v 9.64627 h 4.40972 z m -8.81944,5.23655 h 1.65364 v -1.65365 h -1.65364 z m 0,2.75608 h 1.65364 v -1.65365 h -1.65364 z"
+         id="path28992-6"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:5.64444" />
+    </g>
+  </g>
+</svg>
